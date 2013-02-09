@@ -1,0 +1,603 @@
+TArrayHack
+v7
+r0
+t382085854.352196
+cCheck dependencies
+cProcessInfoPlistFile /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Info.plist ArrayHack/ArrayHack-Info.plist
+cProcessPCH /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch.gch ArrayHack/ArrayHack-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o /Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCopyStringsFile /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/InfoPlist.strings ArrayHack/en.lproj/InfoPlist.strings
+cCpResource build/Debug-iphonesimulator/ArrayHack.app/Default.png ArrayHack/Default.png
+cCpResource build/Debug-iphonesimulator/ArrayHack.app/Default@2x.png ArrayHack/Default@2x.png
+cCpResource build/Debug-iphonesimulator/ArrayHack.app/Default-568h@2x.png ArrayHack/Default-568h@2x.png
+cCompileXIB /Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h
+c0000000051105ADC0000000000000167
+t1360026332
+s359
+i<UIKit/UIKit.h>
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m
+c0000000051105ADC0000000000000976
+t1360026332
+s2422
+i"AppDelegate.h"
+i"ViewController.h"
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ArrayHack-Prefix.pch
+c0000000051105ADC0000000000000141
+t1360026332
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/Default-568h@2x.png
+c0000000051105ADC00000000000048A2
+t1360026332
+s18594
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/Default.png
+c0000000051105ADC000000000000198C
+t1360026332
+s6540
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/Default@2x.png
+c0000000051105ADC0000000000003EEB
+t1360026332
+s16107
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.h
+c0000000051105ADC00000000000000D2
+t1360026332
+s210
+i<UIKit/UIKit.h>
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m
+c000000005115F37B0000000000000734
+t1360393083
+s1844
+i"ViewController.h"
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/InfoPlist.strings
+c0000000051105ADC000000000000002D
+t1360026332
+s45
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib
+c0000000051105ADC0000000000005266
+t1360026332
+s21094
+
+N/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m
+c0000000051105ADC000000000000014B
+t1360026332
+s331
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ArrayHack.LinkFileList
+c000000005115F35D0000000000000176
+t1360393053
+s374
+
+N/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app
+t1360026816
+s272
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app.dSYM
+t2
+s0
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/ArrayHack
+t2
+s0
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Default-568h@2x.png
+t1360026816
+s18594
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Default.png
+t1360026816
+s6540
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Default@2x.png
+t1360026816
+s16107
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Info.plist
+t1360026816
+s804
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/PkgInfo
+t1360026816
+s8
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/InfoPlist.strings
+t1360026816
+s42
+
+N/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h
+c0000000051105ADC0000000000000167
+t1360026332
+s359
+i<UIKit/UIKit.h>
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m
+c0000000051105ADC0000000000000976
+t1360026332
+s2422
+i"AppDelegate.h"
+i"ViewController.h"
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ArrayHack-Prefix.pch
+c0000000051105ADC0000000000000141
+t1360026332
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default-568h@2x.png
+c0000000051105ADC00000000000048A2
+t1360026332
+s18594
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default.png
+c0000000051105ADC000000000000198C
+t1360026332
+s6540
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default@2x.png
+c0000000051105ADC0000000000003EEB
+t1360026332
+s16107
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.h
+c0000000051105ADC00000000000000D2
+t1360026332
+s210
+i<UIKit/UIKit.h>
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m
+c0000000051128D8A0000000000000734
+t1360170378
+s1844
+i"ViewController.h"
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/InfoPlist.strings
+c0000000051105ADC000000000000002D
+t1360026332
+s45
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib
+c0000000051105ADC0000000000005266
+t1360026332
+s21094
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m
+c0000000051105ADC000000000000014B
+t1360026332
+s331
+i<UIKit/UIKit.h>
+i"AppDelegate.h"
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ArrayHack.LinkFileList
+c0000000051105CC000000000000001D0
+t1360026816
+s464
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app
+t1360026816
+s272
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app.dSYM
+t2
+s0
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/ArrayHack
+t2
+s0
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Default-568h@2x.png
+t1360026816
+s18594
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Default.png
+t1360026816
+s6540
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Default@2x.png
+t1360026816
+s16107
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Info.plist
+t1360026816
+s804
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/PkgInfo
+t1360026816
+s8
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/InfoPlist.strings
+t1360026816
+s42
+
+N/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch.gch
+t1360393053
+s15490256
+
+N/var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fiufyrfesmtmiydsdbxwqktzdvuk/ArrayHack-Prefix.pch.gch
+t2
+s0
+
+NArrayHack/ArrayHack-Info.plist
+c0000000051105ADC0000000000000494
+t1360026332
+s1172
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies382085853#382085853#0(0"0(0#1#0"17262018304#0"0#
+
+CCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s382085853.975823
+e382085854.020715
+r0
+xCompileC
+xbuild/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o
+x/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+oIn file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:9:
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate dealloc]':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:17: error: '_window' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:17: error: (Each undeclared identifier is reported only once
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:17: error: for each function it appears in.)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:18: error: '_viewController' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:24: error: request for member 'window' in something not a structure or union
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:26: error: request for member 'viewController' in something not a structure or union
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'window' in something not a structure or union
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'viewController' in something not a structure or union
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:28: error: request for member 'window' in something not a structure or union
+lSLF07#2@63"Compile /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m382085853#382085854#0(1734"cc1obj: warning: -Wuninitialized is not supported without -OIn file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:9:/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate dealloc]':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:17: error: '_window' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:17: error: (Each undeclared identifier is reported only once/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:17: error: for each function it appears in.)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:18: error: '_viewController' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:24: error: request for member 'window' in something not a structure or union/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:26: error: request for member 'viewController' in something not a structure or union/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'window' in something not a structure or union/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'viewController' in something not a structure or union/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m:28: error: request for member 'window' in something not a structure or union10(22@43"-Wuninitialized is not supported without -O382085853#0#61#0(6@0"382085853#0#0#0#0#0"0(4@45"Expected a property attribute before 'strong'382085853#142#113#2(7@77"In file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m382085853#18446744073709551615#0#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#9#0#9#0#0"0(13@104"Expected a property attribute before 'strong' in /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h382085853#18446744073709551615#0#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#0"0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'382085853#255#113#2(7@77"In file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m382085853#18446744073709551615#0#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#9#0#9#0#0"0(13@104"Expected a property attribute before 'strong' in /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h382085853#18446744073709551615#0#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#0"0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#19"expected * before *0(4@49"'_window' undeclared (first use in this function)382085853#463#117#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#17#0#17#0#43"'*' undeclared (first use in this function)0(4@57"'_viewController' undeclared (first use in this function)382085853#798#125#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#18#0#18#0#43"'*' undeclared (first use in this function)0(4@65"Request for member 'window' in something not a structure or union382085854#1053#133#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#24#0#24#0#0"0(4@73"Request for member 'viewController' in something not a structure or union382085854#1186#141#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#26#0#26#0#0"0(4@65"Request for member 'window' in something not a structure or union382085854#1327#133#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#27#0#27#0#0"0(4@73"Request for member 'viewController' in something not a structure or union382085854#1460#141#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#27#0#27#0#0"0(4@65"Request for member 'window' in something not a structure or union382085854#1601#133#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m381719132#28#0#28#0#0"0(0#0#55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m4531187344#1929"    cd /Users/RHINO/GitRepos/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -include /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch -c /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.m -o /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o1#
+
+CCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s381720018.563539
+e381720018.606797
+r0
+xCompileC
+xbuild/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o
+x/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+oIn file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:9:
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate dealloc]':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:17: error: '_window' undeclared (first use in this function)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:17: error: (Each undeclared identifier is reported only once
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:17: error: for each function it appears in.)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:18: error: '_viewController' undeclared (first use in this function)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:24: error: request for member 'window' in something not a structure or union
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:26: error: request for member 'viewController' in something not a structure or union
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'window' in something not a structure or union
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'viewController' in something not a structure or union
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:28: error: request for member 'window' in something not a structure or union
+lSLF07#2@93"Compile /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381720018#381720018#0(2154"cc1obj: warning: -Wuninitialized is not supported without -OIn file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:9:/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate dealloc]':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:17: error: '_window' undeclared (first use in this function)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:17: error: (Each undeclared identifier is reported only once/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:17: error: for each function it appears in.)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:18: error: '_viewController' undeclared (first use in this function)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:24: error: request for member 'window' in something not a structure or union/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:26: error: request for member 'viewController' in something not a structure or union/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'window' in something not a structure or union/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:27: error: request for member 'viewController' in something not a structure or union/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m:28: error: request for member 'window' in something not a structure or union10(22@43"-Wuninitialized is not supported without -O381720018#0#61#0(6@0"381720018#0#0#0#0#0"0(4@45"Expected a property attribute before 'strong'381720018#172#143#2(7@107"In file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381720018#18446744073709551615#0#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#9#0#9#0#0"0(13@134"Expected a property attribute before 'strong' in /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381720018#18446744073709551615#0#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#0"0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'381720018#315#143#2(7@107"In file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381720018#18446744073709551615#0#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#9#0#9#0#0"0(13@134"Expected a property attribute before 'strong' in /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381720018#18446744073709551615#0#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#0"0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#19"expected * before *0(4@49"'_window' undeclared (first use in this function)381720018#583#147#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#17#0#17#0#43"'*' undeclared (first use in this function)0(4@57"'_viewController' undeclared (first use in this function)381720018#1008#155#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#18#0#18#0#43"'*' undeclared (first use in this function)0(4@65"Request for member 'window' in something not a structure or union381720018#1323#163#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#24#0#24#0#0"0(4@73"Request for member 'viewController' in something not a structure or union381720018#1486#171#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#26#0#26#0#0"0(4@65"Request for member 'window' in something not a structure or union381720018#1657#163#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#27#0#27#0#0"0(4@73"Request for member 'viewController' in something not a structure or union381720018#1820#171#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#27#0#27#0#0"0(4@65"Request for member 'window' in something not a structure or union381720018#1991#163#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m381719132#28#0#28#0#0"0(0#0#85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m4462358160#2259"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -include /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fiufyrfesmtmiydsdbxwqktzdvuk/ArrayHack-Prefix.pch -c /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.m -o /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/AppDelegate.o1#
+
+CCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o /Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s382085853.976473
+e382085854.020414
+r0
+xCompileC
+xbuild/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o
+x/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:12: error: expected identifier or '(' before '{' token
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController viewDidLoad]':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:35: error: 'numberArray' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:35: error: (Each undeclared identifier is reported only once
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:35: error: for each function it appears in.)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:38: error: 'numberOfElements' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: 'ViewController' may not respond to '-displayArray'
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: (Messages without a matching method signature
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: will be assumed to return 'id' and accept
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: '...' as arguments.)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController dealloc]':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:51: error: 'arrayLabel' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController addElement:]':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:63: error: 'numberArray' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:66: error: 'numberOfElements' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:67: warning: 'ViewController' may not respond to '-displayArray'
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController removeElement:]':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:78: error: 'numberArray' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:81: error: 'numberOfElements' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:84: warning: 'ViewController' may not respond to '-displayArray'
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController displayArray]':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:92: error: 'numberOfElements' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:95: error: 'numberArray' undeclared (first use in this function)
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:102: error: 'arrayLabel' undeclared (first use in this function)
+lSLF07#2@66"Compile /Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085853#382085854#0(2880"cc1obj: warning: -Wuninitialized is not supported without -O/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:12: error: expected identifier or '(' before '{' token/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController viewDidLoad]':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:35: error: 'numberArray' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:35: error: (Each undeclared identifier is reported only once/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:35: error: for each function it appears in.)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:38: error: 'numberOfElements' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: 'ViewController' may not respond to '-displayArray'/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: (Messages without a matching method signature/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: will be assumed to return 'id' and accept/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:39: warning: '...' as arguments.)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController dealloc]':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:51: error: 'arrayLabel' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController addElement:]':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:63: error: 'numberArray' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:66: error: 'numberOfElements' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:67: warning: 'ViewController' may not respond to '-displayArray'/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController removeElement:]':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:78: error: 'numberArray' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:81: error: 'numberOfElements' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:84: warning: 'ViewController' may not respond to '-displayArray'/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController displayArray]':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:92: error: 'numberOfElements' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:95: error: 'numberArray' undeclared (first use in this function)/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m:102: error: 'arrayLabel' undeclared (first use in this function)16(22@43"-Wuninitialized is not supported without -O382085853#0#61#0(6@0"382085853#0#0#0#0#0"0(4@43"Expected identifier or '(' before '{' token382085853#61#114#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#12#0#12#0#19"expected * before *0(4@53"'numberArray' undeclared (first use in this function)382085853#280#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#35#0#35#0#43"'*' undeclared (first use in this function)0(4@58"'numberOfElements' undeclared (first use in this function)382085853#628#129#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#38#0#38#0#43"'*' undeclared (first use in this function)0(22@51"'ViewController' may not respond to '-displayArray'382085853#757#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#39#0#39#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)382085853#881#118#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#39#0#39#0#0"0(4@52"'arrayLabel' undeclared (first use in this function)382085854#1307#123#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#51#0#51#0#43"'*' undeclared (first use in this function)0(4@53"'numberArray' undeclared (first use in this function)382085854#1535#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#63#0#63#0#43"'*' undeclared (first use in this function)0(4@58"'numberOfElements' undeclared (first use in this function)382085854#1659#129#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#66#0#66#0#43"'*' undeclared (first use in this function)0(22@51"'ViewController' may not respond to '-displayArray'382085854#1788#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#67#0#67#0#26"'*' may not respond to '*'0(4@53"'numberArray' undeclared (first use in this function)382085854#2020#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#78#0#78#0#43"'*' undeclared (first use in this function)0(4@58"'numberOfElements' undeclared (first use in this function)382085854#2144#129#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#81#0#81#0#43"'*' undeclared (first use in this function)0(22@51"'ViewController' may not respond to '-displayArray'382085854#2273#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#84#0#84#0#26"'*' may not respond to '*'0(4@58"'numberOfElements' undeclared (first use in this function)382085854#2503#129#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#92#0#92#0#43"'*' undeclared (first use in this function)0(4@53"'numberArray' undeclared (first use in this function)382085854#2632#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#95#0#95#0#43"'*' undeclared (first use in this function)0(4@52"'arrayLabel' undeclared (first use in this function)382085854#2756#124#0(6@58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m382085651#102#0#102#0#43"'*' undeclared (first use in this function)0(0#0#58"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m4531187344#1935"    cd /Users/RHINO/GitRepos/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -include /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch -c /Users/RHINO/GitRepos/ArrayHack/ArrayHack/ViewController.m -o /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o1#
+
+CCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s381720018.564521
+e381720018.608248
+r0
+xCompileC
+xbuild/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o
+x/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:12: error: expected identifier or '(' before '{' token
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController viewDidLoad]':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:31: error: 'numberArray' undeclared (first use in this function)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:31: error: (Each undeclared identifier is reported only once
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:31: error: for each function it appears in.)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:34: error: 'numberOfElements' undeclared (first use in this function)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: 'ViewController' may not respond to '-displayArray'
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: (Messages without a matching method signature
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: will be assumed to return 'id' and accept
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: '...' as arguments.)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController dealloc]':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:47: error: 'arrayLabel' undeclared (first use in this function)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController addElement:]':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:54: warning: 'ViewController' may not respond to '-displayArray'
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController removeElement:]':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:59: warning: 'ViewController' may not respond to '-displayArray'
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController displayArray]':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:67: error: 'numberOfElements' undeclared (first use in this function)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:70: error: 'numberArray' undeclared (first use in this function)
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:77: error: 'arrayLabel' undeclared (first use in this function)
+lSLF07#2@96"Compile /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381720018#381720018#0(2973"cc1obj: warning: -Wuninitialized is not supported without -O/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:12: error: expected identifier or '(' before '{' token/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController viewDidLoad]':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:31: error: 'numberArray' undeclared (first use in this function)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:31: error: (Each undeclared identifier is reported only once/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:31: error: for each function it appears in.)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:34: error: 'numberOfElements' undeclared (first use in this function)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: 'ViewController' may not respond to '-displayArray'/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: (Messages without a matching method signature/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: will be assumed to return 'id' and accept/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:35: warning: '...' as arguments.)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController dealloc]':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:47: error: 'arrayLabel' undeclared (first use in this function)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController addElement:]':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:54: warning: 'ViewController' may not respond to '-displayArray'/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController removeElement:]':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:59: warning: 'ViewController' may not respond to '-displayArray'/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m: In function '-[ViewController displayArray]':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:67: error: 'numberOfElements' undeclared (first use in this function)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:70: error: 'numberArray' undeclared (first use in this function)/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m:77: error: 'arrayLabel' undeclared (first use in this function)12(22@43"-Wuninitialized is not supported without -O381720018#0#61#0(6@0"381720018#0#0#0#0#0"0(4@43"Expected identifier or '(' before '{' token381720018#61#144#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#12#0#12#0#19"expected * before *0(4@53"'numberArray' undeclared (first use in this function)381720018#340#154#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#31#0#31#0#43"'*' undeclared (first use in this function)0(4@58"'numberOfElements' undeclared (first use in this function)381720018#778#159#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#34#0#34#0#43"'*' undeclared (first use in this function)0(22@51"'ViewController' may not respond to '-displayArray'381720018#937#154#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#35#0#35#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)381720018#1091#148#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#35#0#35#0#0"0(4@52"'arrayLabel' undeclared (first use in this function)381720018#1637#153#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#47#0#47#0#43"'*' undeclared (first use in this function)0(22@51"'ViewController' may not respond to '-displayArray'381720018#1925#154#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#54#0#54#0#26"'*' may not respond to '*'0(22@51"'ViewController' may not respond to '-displayArray'381720018#2217#154#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#59#0#59#0#26"'*' may not respond to '*'0(4@58"'numberOfElements' undeclared (first use in this function)381720018#2507#159#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#67#0#67#0#43"'*' undeclared (first use in this function)0(4@53"'numberArray' undeclared (first use in this function)381720018#2666#154#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#70#0#70#0#43"'*' undeclared (first use in this function)0(4@52"'arrayLabel' undeclared (first use in this function)381720018#2820#153#0(6@88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m381719132#77#0#77#0#43"'*' undeclared (first use in this function)0(0#0#88"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m4462358160#2265"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -include /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fiufyrfesmtmiydsdbxwqktzdvuk/ArrayHack-Prefix.pch -c /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ViewController.m -o /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/ViewController.o1#
+
+CCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s382085853.974838
+e382085854.018543
+r0
+xCompileC
+xbuild/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o
+x/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+oIn file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m:11:
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m: In function 'main':
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m:15: error: expected expression before '@' token
+lSLF07#2@56"Compile /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m382085853#382085854#0(529"cc1obj: warning: -Wuninitialized is not supported without -OIn file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m:11:/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m: In function 'main':/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m:15: error: expected expression before '@' token4(22@43"-Wuninitialized is not supported without -O382085853#0#61#0(6@0"382085853#0#0#0#0#0"0(4@45"Expected a property attribute before 'strong'382085853#136#113#2(7@70"In file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m382085853#18446744073709551615#0#0(6@48"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m381719132#11#0#11#0#0"0(13@104"Expected a property attribute before 'strong' in /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h382085853#18446744073709551615#0#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#0"0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'382085853#249#113#2(7@70"In file included from /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m382085853#18446744073709551615#0#0(6@48"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m381719132#11#0#11#0#0"0(13@104"Expected a property attribute before 'strong' in /Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h382085853#18446744073709551615#0#0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#0"0(6@55"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#19"expected * before *0(4@36"Expected expression before '@' token382085853#432#97#0(6@48"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m381719132#15#0#15#0#19"expected * before *0(0#0#48"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m4531187344#1915"    cd /Users/RHINO/GitRepos/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -include /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch -c /Users/RHINO/GitRepos/ArrayHack/ArrayHack/main.m -o /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o1#
+
+CCompileC build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s381720018.562304
+e381720018.605347
+r0
+xCompileC
+xbuild/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o
+x/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+oIn file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m:11:
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m: In function 'main':
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m:15: error: expected expression before '@' token
+lSLF07#2@86"Compile /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m381720018#381720018#0(679"cc1obj: warning: -Wuninitialized is not supported without -OIn file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m:11:/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:15: error: expected a property attribute before 'strong'/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h:17: error: expected a property attribute before 'strong'/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m: In function 'main':/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m:15: error: expected expression before '@' token4(22@43"-Wuninitialized is not supported without -O381720018#0#61#0(6@0"381720018#0#0#0#0#0"0(4@45"Expected a property attribute before 'strong'381720018#166#143#2(7@100"In file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m381720018#18446744073709551615#0#0(6@78"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m381719132#11#0#11#0#0"0(13@134"Expected a property attribute before 'strong' in /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381720018#18446744073709551615#0#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#0"0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#15#0#15#0#19"expected * before *0(4@45"Expected a property attribute before 'strong'381720018#309#143#2(7@100"In file included from /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m381720018#18446744073709551615#0#0(6@78"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m381719132#11#0#11#0#0"0(13@134"Expected a property attribute before 'strong' in /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381720018#18446744073709551615#0#0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#0"0(6@85"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/AppDelegate.h381719132#17#0#17#0#19"expected * before *0(4@36"Expected expression before '@' token381720018#552#127#0(6@78"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m381719132#15#0#15#0#19"expected * before *0(0#0#78"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m4462358160#2245"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -include /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fiufyrfesmtmiydsdbxwqktzdvuk/ArrayHack-Prefix.pch -c /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/main.m -o /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/Objects-normal/i386/main.o1#
+
+CCompileXIB /Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib
+s382085854.021090
+e382085854.351792
+r0
+xCompileXIB
+x/Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib
+o2013-02-09 00:57:34.345 ibtool[1161:a0b] -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620
+o2013-02-09 00:57:34.346 ibtool[1161:a0b] Exception raised while decoding document objects - -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620
+o/* com.apple.ibtool.errors */
+o/Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib: error: The document "ViewController.xib" could not be opened. The operation couldn’t be completed. -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620.
+o    Failure Reason: -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620.
+o    Recovery Suggestion: Check the console log for additional information.
+lSLF07#2@48"CompileXIB ArrayHack/en.lproj/ViewController.xib382085854#382085854#0(784"2013-02-09 00:57:34.345 ibtool[1161:a0b] -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x1052186202013-02-09 00:57:34.346 ibtool[1161:a0b] Exception raised while decoding document objects - -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620/* com.apple.ibtool.errors *//Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib: error: The document "ViewController.xib" could not be opened. The operation couldn’t be completed. -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620.    Failure Reason: -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620.    Recovery Suggestion: Check the console log for additional information.1(4@182"The document "ViewController.xib" could not be opened. The operation couldn’t be completed. -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x105218620.382085854#18446744073709551615#0#0(6@69"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib381719132#0#0#0#0#0"0(0#0#69"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib17262360064#611"    cd /Users/RHINO/GitRepos/ArrayHack    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/ViewController.nib /Users/RHINO/GitRepos/ArrayHack/ArrayHack/en.lproj/ViewController.xib --sdk /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk1#
+
+CCompileXIB /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib
+s381720018.608534
+e381720018.941723
+r0
+xCompileXIB
+x/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib
+o2013-02-04 19:20:18.935 ibtool[5531:a0b] -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0
+o2013-02-04 19:20:18.936 ibtool[5531:a0b] Exception raised while decoding document objects - -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0
+o/* com.apple.ibtool.errors */
+o/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib: error: The document "ViewController.xib" could not be opened. The operation couldn’t be completed. -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0.
+o    Failure Reason: -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0.
+o    Recovery Suggestion: Check the console log for additional information.
+lSLF07#2@48"CompileXIB ArrayHack/en.lproj/ViewController.xib381720018#381720018#0(814"2013-02-04 19:20:18.935 ibtool[5531:a0b] -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba02013-02-04 19:20:18.936 ibtool[5531:a0b] Exception raised while decoding document objects - -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0/* com.apple.ibtool.errors *//Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib: error: The document "ViewController.xib" could not be opened. The operation couldn’t be completed. -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0.    Failure Reason: -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0.    Recovery Suggestion: Check the console log for additional information.1(4@182"The document "ViewController.xib" could not be opened. The operation couldn’t be completed. -[IBUIScreenMetrics initWithCoder:]: unrecognized selector sent to instance 0x100693ba0.381720018#18446744073709551615#0#0(6@99"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib381719132#0#0#0#0#0"0(0#0#99"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib4462358160#701"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/ViewController.nib /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/ViewController.xib --sdk /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk1#
+
+CCopyStringsFile /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/InfoPlist.strings ArrayHack/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/InfoPlist.strings ArrayHack/en.lproj/InfoPlist.strings
+s381719616.727626
+e381719616.796698
+r1
+xCopyStringsFile
+x/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj/InfoPlist.strings
+xArrayHack/en.lproj/InfoPlist.strings
+lSLF07#2@41"Copy ArrayHack/en.lproj/InfoPlist.strings381719616#381719616#0(0"0(0#0#98"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/en.lproj/InfoPlist.strings4537474704#559"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary ArrayHack/en.lproj/InfoPlist.strings --outdir /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/ArrayHack.app/Default-568h@2x.png ArrayHack/Default-568h@2x.png
+s381719616.729289
+e381719616.738934
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ArrayHack.app/Default-568h@2x.png
+xArrayHack/Default-568h@2x.png
+lSLF07#2@34"Copy ArrayHack/Default-568h@2x.png381719616#381719616#0(0"0(0#0#91"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default-568h@2x.png4537474704#576"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default-568h@2x.png /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app0#
+
+CCpResource build/Debug-iphonesimulator/ArrayHack.app/Default.png ArrayHack/Default.png
+s381719616.728321
+e381719616.738766
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ArrayHack.app/Default.png
+xArrayHack/Default.png
+lSLF07#2@26"Copy ArrayHack/Default.png381719616#381719616#0(0"0(0#0#83"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default.png4537474704#568"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default.png /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app0#
+
+CCpResource build/Debug-iphonesimulator/ArrayHack.app/Default@2x.png ArrayHack/Default@2x.png
+s381719616.728778
+e381719616.739166
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ArrayHack.app/Default@2x.png
+xArrayHack/Default@2x.png
+lSLF07#2@29"Copy ArrayHack/Default@2x.png381719616#381719616#0(0"0(0#0#86"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default@2x.png4537474704#571"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/Default@2x.png /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app0#
+
+CGenerateDSYMFile /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app.dSYM /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/ArrayHack
+r0
+
+CGenerateDSYMFile /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app.dSYM /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/ArrayHack
+r0
+
+CLd /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/ArrayHack normal i386
+r0
+
+CLd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/ArrayHack normal i386
+r0
+
+CProcessInfoPlistFile /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Info.plist ArrayHack/ArrayHack-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Info.plist ArrayHack/ArrayHack-Info.plist
+s381719616.119273
+e381719616.124976
+r1
+xProcessInfoPlistFile
+x/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Info.plist
+xArrayHack/ArrayHack-Info.plist
+lSLF07#2@38"Process ArrayHack/ArrayHack-Info.plist381719616#381719616#0(0"0(0#0#92"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ArrayHack-Info.plist17205965824#576"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ArrayHack/ArrayHack-Info.plist -genpkginfo /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app/Info.plist0#
+
+CProcessPCH /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch.gch ArrayHack/ArrayHack-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s382085853.428810
+e382085853.974628
+r1
+xProcessPCH
+x/var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch.gch
+xArrayHack/ArrayHack-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@41"Precompile ArrayHack/ArrayHack-Prefix.pch382085853#382085853#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O382085853#0#61#0(6@0"382085853#0#0#0#0#0"0(0#0#62"/Users/RHINO/GitRepos/ArrayHack/ArrayHack/ArrayHack-Prefix.pch17209833984#1812"    cd /Users/RHINO/GitRepos/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/GitRepos/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -c /Users/RHINO/GitRepos/ArrayHack/ArrayHack/ArrayHack-Prefix.pch -o /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fazirtygulzyfsdebkjmfeksvswe/ArrayHack-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fiufyrfesmtmiydsdbxwqktzdvuk/ArrayHack-Prefix.pch.gch ArrayHack/ArrayHack-Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s381719616.125112
+e381719616.680357
+r1
+xProcessPCH
+x/var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fiufyrfesmtmiydsdbxwqktzdvuk/ArrayHack-Prefix.pch.gch
+xArrayHack/ArrayHack-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+occ1obj: warning: -Wuninitialized is not supported without -O
+lSLF07#2@41"Precompile ArrayHack/ArrayHack-Prefix.pch381719616#381719616#0(61"cc1obj: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O381719616#0#61#0(6@0"381719616#0#0#0#0#0"0(0#0#92"/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ArrayHack-Prefix.pch4537474704#2112"    cd /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack    setenv LANG en_US.US-ASCII    setenv PATH "/Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer-3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -DDEBUG=1 -isysroot /Developer-3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-generated-files.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-own-target-headers.hmap -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-all-target-headers.hmap -iquote /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/ArrayHack-project-headers.hmap -F/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/include -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources/i386 -I/Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/ArrayHack.build/Debug-iphonesimulator/ArrayHack.build/DerivedSources -c /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/ArrayHack/ArrayHack-Prefix.pch -o /var/folders/f5/byj7myl57x9745y93w7gvwmw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ArrayHack-Prefix-fiufyrfesmtmiydsdbxwqktzdvuk/ArrayHack-Prefix.pch.gch0#
+
+CTouch /Users/RHINO/GitRepos/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app
+r0
+
+CTouch /Users/RHINO/MobileMakersPublicRepo/MMFeb_Mrch_2013/ArrayHack/build/Debug-iphonesimulator/ArrayHack.app
+r0
+
